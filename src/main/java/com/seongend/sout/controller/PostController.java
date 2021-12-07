@@ -20,7 +20,6 @@ public class PostController {
                             @AuthenticationPrincipal UserDetailsImpl userDetails) {
 
         Long userId = userDetails.getUser().getId();
-        System.out.println(userId);
         PostService.createPosts(requestDto);
     }
 
