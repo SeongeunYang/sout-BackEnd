@@ -139,13 +139,13 @@ https://www.youtube.com/watch?v=Ltmke9IyPXo
 <table align="center">
     <tr>
         <td align="center">
-        <a href="https://diddl.tistory.com/"><img src="https://img.shields.io/badge/양성은-000AFF?style=뱃지모양&logo=로고&logoColor=white"/></a>
+        <a href="https://diddl.tistory.com/">양성은</a>
         </td>
         <td align="center">
-        <a href="https://velog.io/@davidko"><img src="https://img.shields.io/badge/고성범-2DDC88?style=뱃지모양&logo=로고&logoColor=black"/></a>
+        <a href="https://velog.io/@davidko">고성범</a>
         </td>
         <td align="center">
-        <a href="https://www.notion.so/99-6-12-a6a6f7372d9d4d5a93af8803be40330e"><img src="https://img.shields.io/badge/성해인-D77EE9?style=뱃지모양&logo=로고&logoColor=white"/></a>
+        <a href="https://www.notion.so/99-6-12-a6a6f7372d9d4d5a93af8803be40330e">성해인</a>
         </td>
     </tr>
     <tr>
